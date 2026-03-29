@@ -1,0 +1,11 @@
+streamlit
+faster-whisper
+deep-translator
+gtts
+streamlit-mic-recorder
+numpy
+pandas
+matplotlib
+scipy
+SpeechRecognition
+pyaudio

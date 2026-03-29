@@ -1,0 +1,13 @@
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+env/
+venv/
+ENV/
+.streamlit/
+*.db
+*.mp3
+*.wav
+voxis_settings.json
+.gemini/
